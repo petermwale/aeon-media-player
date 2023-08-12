@@ -1,0 +1,1 @@
+pyinstaller --name "Aeon" -F --noconsole --add-data "data:data" --icon "data/image/icon.png" splash.py

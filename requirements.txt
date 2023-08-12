@@ -1,0 +1,5 @@
+Required packages to run *Aeon*:
+1) wxPython (user interface)
+2) Pyglet (media playback)
+3) eyeD3 (extract media metadata)
+4) wmi [Windows only] (get drives and/or volumes)
